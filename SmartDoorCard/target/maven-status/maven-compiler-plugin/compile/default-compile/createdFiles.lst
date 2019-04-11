@@ -1,0 +1,5 @@
+com\marsh\welcome\WelcomeController.class
+com\marsh\welcome\FilePayload.class
+com\marsh\welcome\Payload.class
+com\marsh\welcome\EpdFileSender.class
+com\marsh\welcome\TargetResource.class
